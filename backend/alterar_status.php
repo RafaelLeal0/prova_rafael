@@ -1,3 +1,5 @@
+<!-- Rafael Gustavo Leal dos Santos n°27 -->
+
 <?php
 $conn = new mysqli("localhost", "root", "", "TaskSync");
 
